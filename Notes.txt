@@ -1,0 +1,14 @@
+in pkg.json : 
+ADD:
+"scripts": {
+
+
+    "dev":"nodemon server/index.js"
+  },
+
+NPM RUN DEV TO RUN BACKLEND.
+
+to create mongodb cloud database , use mLab
+mongo db atlas
+email : syedahsan wor127
+pass :42621211

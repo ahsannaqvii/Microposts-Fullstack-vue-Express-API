@@ -11,7 +11,7 @@ npm install
 npm run serve
 ```
   ## Project Description
-The project is designed to understand the very basics of VueJS and designed using Vuetify.Concepts of routers and attribute binding are implemented.
-### Acknowledgements
+Basic full stack application with CRUD operations to understand the flow of data between the backend and frontend.
   
-  https://www.youtube.com/watch?v=_EiPwgrTYGY
+###Acknowledgements
+https://www.youtube.com/watch?v=W-b9KGwVECs
